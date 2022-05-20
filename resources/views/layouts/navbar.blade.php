@@ -8,7 +8,7 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse justify-content-end col-md-7" id="navbarTop" style="margin:0 320px; padding-left: 100px; line-height: 50px; font-size: 19px">
+    <div class="container collapse navbar-collapse justify-content-end col-md-7" id="navbarTop" style="margin:0 320px; padding-left: 270px; line-height: 50px; font-size: 16px">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item"><a class="nav-link {{ ($active === "home") ? 'active' : '' }}" href="/">Home</a> </li>
             <li class="nav-item"><a class="nav-link {{ ($active === "info") ? 'active' : '' }}" href="/info">Info dan Tips</a> </li>
